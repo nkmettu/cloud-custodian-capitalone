@@ -1,6 +1,8 @@
 Cloud Custodian (c7n)
 =================
 
+Wiki: https://cloudcustodian.io/docs/index.html
+
 <p align="center"><img src="https://cloudcustodian.io/img/logo_capone_devex_cloud_custodian.svg" alt="Cloud Custodian Logo" width="200px" height="200px" /></p>
 
 ---
